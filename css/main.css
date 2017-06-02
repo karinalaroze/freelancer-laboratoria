@@ -57,14 +57,14 @@ h1{
 
 h2{
 	font-family: 'Montserrat';
- 	color: black;
+ 	color: withe;
  	position: relative;
  	top: 90px;
  	left: 500px;
 }
 
 h6{
-	color: black;
+	color: withe;
 	position: relative;
 	top: 90px;
 	left: 470px;
@@ -78,5 +78,12 @@ img{
 
 .home{
 	background: #00FFFF;
-	top: 500px;
+	height: 600px;
+}
+
+h3{
+   color: black;
+   position: relative;
+   top: 200px;
+   left: 550px;
 }
